@@ -48,9 +48,6 @@ a{
   background:#1B2030 url(https://images7.alphacoders.com/895/thumb-1920-895992.jpg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
-  animation: grow 360s  linear 10ms infinite;
-  transition:all 0.4s ease-in-out;
-  z-index:-2
 }
 .header a{
   color:#eee
@@ -203,7 +200,7 @@ footer{
   flex-direction: column;
   bottom: 0;
   left: 0;
-  background:#1B2030 url((https://images7.alphacoders.com/895/thumb-1920-895992.jpg) 50% 0 no-repeat;
+   background:#1B2030 url(https://images7.alphacoders.com/895/thumb-1920-895992.jpg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
 }
