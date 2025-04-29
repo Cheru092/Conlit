@@ -135,28 +135,20 @@ a{
   
   
 }
-a:link {
-  color: green;
-  background-color: transparent;
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
   text-decoration: none;
+  display: inline-block;
 }
 
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
+a:hover, a:active {
+  background-color: red;
 }
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
+</style>
 }
 .btn{
   color:#333;
