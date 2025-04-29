@@ -149,7 +149,7 @@ a:visited {
 }
 
 a:hover {
-  color: black;
+  color: Dark Red;
   background-color: transparent;
   text-decoration: underline;
 }
