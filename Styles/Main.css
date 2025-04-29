@@ -136,17 +136,28 @@ a{
   
 }
 <style>
-a:link, a:visited {
-  background-color: #f44336;
-  color: black;
-  padding: 15px 25px;
-  text-align: center;
+a:link {
+  color: green;
+  background-color: transparent;
   text-decoration: none;
-  display: inline-block;
 }
 
-a:hover, a:active {
-  background-color: black;
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 </style>
 }
