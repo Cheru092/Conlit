@@ -143,13 +143,13 @@ a:link {
 }
 
 a:visited {
-  color: black;
+  color: Red;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: Dark Red;
+  color: Red;
   background-color: transparent;
   text-decoration: underline;
 }
